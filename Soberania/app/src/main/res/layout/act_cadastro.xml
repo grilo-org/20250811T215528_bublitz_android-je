@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".actCadastro">
+
+
+    <RelativeLayout
+        android:id="@+id/idRl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvIdEleitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input"
+            android:text="@string/nome_eleitor" />
+
+        <EditText
+            android:id="@+id/etIdEleitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdEleitor"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_label"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tvIdDataNasc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/etIdEleitor"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input"
+            android:text="@string/data_de_nasc" />
+
+        <com.vicmikhailau.maskededittext.MaskedEditText
+            android:id="@+id/etIdDataNasc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdDataNasc"
+            android:ems="10"
+            android:hint="DD/MM/AAAA"
+            android:inputType="date"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_label"
+            app:mask="##/##/####" />
+
+        <TextView
+            android:id="@+id/tvIdTituloEleitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/etIdDataNasc"
+            android:text="@string/titulo_eleitor"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input" />
+
+        <EditText
+            android:id="@+id/etIdTituloEleitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdTituloEleitor"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_label"
+            android:ems="10"
+            android:hint="SOMENTE NÚMEROS"
+            android:inputType="number"
+            android:maxLength="12" />
+
+        <TextView
+            android:id="@+id/tvIdNomeMae"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etIdTituloEleitor"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:text="@string/nome_da_mae"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input" />
+
+        <EditText
+            android:id="@+id/etIdNomeMae"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdNomeMae"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_label" />
+
+        <CheckBox
+            android:id="@+id/cbIdNomeMae"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvIdNomeMae"
+            android:text="@string/nao_consta" />
+
+
+        <TextView
+            android:id="@+id/tvIdEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etIdNomeMae"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:text="@string/email"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input" />
+
+        <EditText
+            android:id="@+id/etIdEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdEmail"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_label" />
+
+        <TextView
+            android:id="@+id/tvIdCelular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/etIdEmail"
+            android:paddingBottom="@dimen/actCadastro_espacamento_label_input"
+            android:text="@string/celular" />
+
+        <com.vicmikhailau.maskededittext.MaskedEditText
+            android:id="@+id/etIdCelular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdCelular"
+            android:ems="10"
+            android:inputType="phone"
+            android:layout_marginBottom="@dimen/actCadastro_espacamento_input_btn"
+            app:mask="(##) #####-####" />
+
+
+        <Button
+            android:id="@+id/btnIdCadastrar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/actCadastro_height_btn_cadastrar"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/etIdCelular"
+            android:background="@drawable/blue_button"
+            android:onClick="cadastrar"
+            android:text="@string/cadastrar" />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

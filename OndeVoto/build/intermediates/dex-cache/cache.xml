@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_37a8381e9eccf5f52b6158e6ba6fe6492053265e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_4a441406521571f5129115ea85db1ad00b2f81bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_0bfe8a909ca018b677316df0587bc0b2cbd254c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_14d1ffb9bd6b6baf83095a302778ee384387e04a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_37dbf22d64d52f2161d593ec327ea67b50a46c27/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_c8df5a418cf8cf8b82c5f641f8599756bc115711/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_87c81dccb5c93e9309a30d267c7da0bc2dca8758/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_312cb7c1a548e36fc97eecf6f20df3e9e75afb57/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/adt-bundle-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_3385bcd7b1be13aaabd90aa0b82b72f21fa5f5f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_b225b727de1c4fb0ee08520fd0769460254d85e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_54b5ef46afe1463fed4d1994684ce5d2ca0d8308/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_320672ac40daec58b80ce7013c9e47973e6e977b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_eeb4391e7e6d04e5f442bfb8d4e1e7c24c901e36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_d5b8682b201a3a7bd51f3e1af7c272eeee17f19c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_806bdbfd267392b64d523be73dc1d63aeed90c96/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_32b9c6a3174686c166e3f04480c5681467f511c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_895b9005b0b40e3a5f4d40dba42b58566069efe1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_275630cdc817b41a7317169e9217a47ab180d74d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_dc0d5f1bb2f5ad8f2ae848be367cdcaf7ac9e908/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_af2563b4fc20cbd2d877311f1e90bebaac33acb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_b37821b8e4b1a13f6e273993ee7695b1e15b87e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_fec547d7f57c34b13fbf14b1b82f802690aec7c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_b51ccb608ee2b427eda0ffb362015be63c476cd0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_63a8a9ed69048d2c3b0b909cdf2c0aa17412af97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_e4a6aedd4061e36d68e176bd4f0f56dc2f5e3827/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-2.4-jar-with-dependencies_ca2c56561779a096e13e659dabaac5592663f258/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_3fd3d53f9cb52f6a8e98a63b990ee4bd7173f1cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4bc591de07f3dc168dd7fdcd1b51bd975c7116d2">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a4aae3d1f803ab45b5ddbc65fafb54dbc68f1ed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_44cb0e09323d6b76a4f85ce304dac79f47108b96/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_30a4d1b5f00807c8b28e336e6d0faa862e423113/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_b7c0b7983343ac0bf7672043089dbd72e2f1e7db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_8cadcd32c8310fd4181e7609335741863824b40f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_6eae1ee915f20cfedc1cc06ce8528eb3485a659e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_e4530e4f7d0ed7d32413b068a294a42228b109be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_270b09e80e8f3e7d9448bf8c2ac648d91f1bee32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_a8903cf0752ecb22502f95236f80f9b0e374d0b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_226577566bd37be3175e73d30bfa41c39552f318/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_274721bc5ff32b1683cce0d9f9bf4452f9757432/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_6a9bb5fe7584b0546bef28e9518d8d353d2cc52d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_d002cd197ec81e19a36dc847cca281f93c1dbe30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1118c6cfaa9b4e932512bf36dd5c54604790738f">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1be8aca0d37df73b0657542520b83c96f0c5492/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_91375bade0c4f6cfb8ea96cea582a5aea46c2dff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_c302cb54a13a5ce5b9be0a845f11292479847d5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_1bef7bfb7c61d673b386821055868cc63616ff88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_0097137f5285b276580d2ea2f5716f61510dfdf5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_d236c2efb5da61e75c593586e92ed4653c509bb6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_4a55148feb46a551adab18db349f049a321ab916/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_d49d27d1fdebe7699ff33e1afbb266278c10b09e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_f187a5d68a0df6902abff825c52f5e5ee4f95778/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_8e7e0f742a04913f1b1e0615324986555fa23431/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_8df2493c26d6f95b72624552040b6634f3fcfb8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/jorgebublitz/StudioProjects/OndeVoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_febe2cec1b39aadf9cb5645953cee00b3ea7cf2f/classes.dex" />
+    </item>
+
+</items>

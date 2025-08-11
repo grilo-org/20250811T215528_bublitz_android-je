@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CAIXA 1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sobre</string>
+
+    <string-array name="tipoGasto">
+        <item></item>
+        <item>Atividades de militância e mobilização de rua</item>
+        <item>Cessão ou locação de veículos</item>
+        <item>Combustíveis e lubrificantes</item>
+        <item>Eventos de promoção de candidatura</item>
+        <item>Locação/cessão de bens imóveis</item>
+        <item>Locação/cessão de bens móveis (exceto veículos)</item>
+        <item>Publicidade por materiais impressos</item>
+        <item>Produção de jingles, vinhetas e slogans</item>
+        <item>Outros/Diversos</item>
+    </string-array>
+
+    <string name="title_activity_act_foto">Foto</string>
+    <string name="title_activity_act_video">Video</string>
+
+    <string name="txt_info1_mt">
+<![CDATA[
+      <h2>Tribunal Regional Eleitoral<br>de Mato Grosso</h2>
+      Desenvolvido pela <strong>CSC/STI</strong> em parceria com a <strong>CCIA</strong>.
+      ]]>
+	</string>
+    <string name="txt_info2_mt">
+<![CDATA[
+      Esta aplicação tem a finalidade de disponibilizar mais uma ferramenta de combate ao
+      <strong>Caixa 2</strong> nas campanhas das Eleições Gerais de 2018 no Estado de Mato Grosso,
+      através do Controle Judicial executado pela Justiça Eleitoral apoiado pelo Controle Social
+      exercido por toda sociedade.
+      ]]>
+	</string>
+    <string name="txt_info3_mt">
+<![CDATA[
+      Desenvolvido por <strong>Jorge <em>FDDMan</em> Bublitz</strong>.
+      ]]>
+	</string>
+    <string name="title_activity_act_limite_eleicao_nacional">Limites Eleição Nacional</string>
+
+    <string name="title_activity_insert_data">InsertDataActivity</string>
+
+</resources>

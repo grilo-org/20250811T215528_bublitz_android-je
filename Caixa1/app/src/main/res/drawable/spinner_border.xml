@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <stroke android:width="2dp" android:color="#C0C0C0" />
+                    <padding android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp" />
+                </shape>
+            </item>
+            <item android:right="3dp">
+                <bitmap android:gravity="right|center" android:src="@drawable/ic_arrow_dow_chevron_20"  />
+            </item>
+        </layer-list>
+    </item>
+
+</selector>

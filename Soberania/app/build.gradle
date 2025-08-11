@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "br.jus.tremt.soberania"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 33
+        versionName "1.0.7"
+        testInstrumentationRunner "android.support.act_detalhe_proposta.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.vicmikhailau:MaskedEditText:2.0.4'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.google.code.gson:gson:2.8.0'
+    implementation 'org.jsoup:jsoup:1.9.2'
+    implementation 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+    implementation 'com.joanzapata.iconify:android-iconify:2.2.2'
+    implementation 'com.joanzapata.iconify:android-iconify-fontawesome:2.2.2' // (v4.5)
+    implementation 'com.joanzapata.iconify:android-iconify-entypo:2.2.2' // (v3,2015)
+    implementation 'com.joanzapata.iconify:android-iconify-typicons:2.2.2' // (v2.0.7)
+    implementation 'com.joanzapata.iconify:android-iconify-material:2.2.2' // (v2.0.0)
+    implementation 'com.joanzapata.iconify:android-iconify-material-community:2.2.2' // (v1.4.57)
+    implementation 'com.joanzapata.iconify:android-iconify-meteocons:2.2.2' // (latest)
+    implementation 'com.joanzapata.iconify:android-iconify-weathericons:2.2.2' // (v2.0)
+    implementation 'com.joanzapata.iconify:android-iconify-simplelineicons:2.2.2' // (v1.0.0)
+    implementation 'com.joanzapata.iconify:android-iconify-ionicons:2.2.2' // (v2.0.1)
+    implementation 'com.android.support:support-annotations:27.0.2'
+    //debugCompile 'com.amitshekhar.android:debug-db:1.0.2'
+}

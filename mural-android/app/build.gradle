@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "br.jus.tremt.muraleletronico"
+        minSdkVersion 15
+        targetSdkVersion 28
+        versionCode 10
+        versionName "1.2.0"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+
+    //android support libraries
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+
+    //list and cards
+    implementation 'com.android.support:cardview-v7:28.0.0'
+
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+
+    //ion biblioteca para http requests
+    implementation 'com.koushikdutta.ion:ion:2.+'
+
+    //biblioteca para verificar versão na loja
+    implementation 'com.github.javiersantos:AppUpdater:2.7'
+}

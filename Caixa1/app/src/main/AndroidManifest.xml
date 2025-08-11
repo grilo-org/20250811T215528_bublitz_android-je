@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.jus.tre_mt.caixa1">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- Para acessar GPS. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!--<uses-feature android:name="android.hardware.location.gps" />-->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/new_icon"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="br.jus.tre_mt.caixa1.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"
+                android:screenOrientation="portrait" />
+        </provider>
+
+        <activity
+            android:name=".ActSplash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ActGasto"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Informar Gastos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActGastoNacional"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Informar Gastos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActFoto"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Fotos"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ActVideo"
+            android:label="Videos"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ActLimite"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Limites de Gastos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActConsulta"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Consultar Candidatos"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ActProtocolo"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Consultar Gastos Enviados"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActProtocoloNacional"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Consultar Gastos Enviados"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActLimiteNacional"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="Limites de Gastos"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

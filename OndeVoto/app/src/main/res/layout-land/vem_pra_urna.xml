@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/LinearLayout1"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/flag_bra"
+	android:orientation="vertical"
+	android:onClick="inicia"
+	tools:context="${packageName}.${activityClass}" >
+
+    <TextView
+    	android:id="@+id/textView1"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"
+    	android:paddingBottom="5dp"
+    	android:paddingLeft="5dp"
+    	android:paddingRight="5dp"
+    	android:paddingTop="5dp"
+    	android:shadowColor="#ffffff"
+		android:shadowDx="5"
+		android:shadowDy="5"
+		android:shadowRadius="2.5"
+    	android:text="@string/mens1"
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:textColor="#000000"
+    	android:textSize="22sp"
+    	android:textStyle="bold" />
+
+    <TextView
+    	android:id="@+id/txt4"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"
+    	android:paddingTop="15dp"
+    	android:shadowColor="#1d1764"
+    	android:shadowDx="10"
+    	android:shadowDy="10"
+    	android:shadowRadius="2.5"
+    	android:text="@string/mens4"
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:textColor="#000000"
+    	android:textSize="55sp"
+    	android:textStyle="bold|italic" />
+
+    <TextView
+    	android:id="@+id/textView3"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"
+    	android:paddingLeft="15dp"
+    	android:paddingRight="15dp"
+    	android:shadowColor="#ffffff"
+    	android:shadowDx="10"
+    	android:shadowDy="10"
+    	android:shadowRadius="2.5"
+    	android:text="@string/mens3"
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:textColor="#1d1764"
+    	android:textSize="40sp"
+    	android:textStyle="bold" />
+
+    <TextView
+    	android:id="@+id/textView2"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"
+    	android:paddingLeft="10dp"
+    	android:paddingRight="10dp"
+    	android:paddingTop="10dp"
+    	android:shadowColor="#000000"
+		android:shadowDx="10"
+		android:shadowDy="10"
+		android:shadowRadius="2.5"
+    	android:text="@string/mens2"
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:textColor="#ffff77"
+    	android:textSize="45sp"
+    	android:textStyle="bold" />
+
+</LinearLayout>

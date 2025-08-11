@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.jus.tremt.soberania.actConfig">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <Switch
+            android:id="@+id/swMun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView2"
+            android:layout_alignStart="@+id/textView2"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="12dp"
+            android:text="Municipais     "
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="148dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="28dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="22dp"
+            android:text="Acompanhar propostas:"
+            android:textColor="@android:color/black"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="39dp" />
+
+        <Switch
+            android:id="@+id/swWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/swAut"
+            android:layout_alignStart="@+id/swAut"
+            android:layout_below="@+id/swAut"
+            android:text="Somente quando conectado ao Wi-Fi   "
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="228dp" />
+
+        <Switch
+            android:id="@+id/swEst"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/swMun"
+            android:layout_alignStart="@+id/swMun"
+            android:layout_below="@+id/swMun"
+            android:layout_marginTop="12dp"
+            android:text="Estaduais      "
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="110dp" />
+
+        <Switch
+            android:id="@+id/swNac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/swEst"
+            android:layout_alignStart="@+id/swEst"
+            android:layout_below="@+id/swEst"
+            android:layout_marginTop="11dp"
+            android:enabled="false"
+            android:text="Nacionais     "
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="72dp" />
+
+        <Switch
+            android:id="@+id/swAut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/swNac"
+            android:layout_alignStart="@+id/swNac"
+            android:layout_below="@+id/swNac"
+            android:layout_marginTop="30dp"
+            android:text="Atualizar propostas automaticamente    " />
+
+        <Button
+            android:id="@+id/btnTrocarEleitor"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/actDadosEleitor_height_btn_trocarEleitor"
+            android:layout_below="@+id/swWifi"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/blue_button"
+            android:onClick="salvar"
+            android:text="Salvar"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

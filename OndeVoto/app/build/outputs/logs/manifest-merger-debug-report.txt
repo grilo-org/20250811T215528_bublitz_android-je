@@ -1,0 +1,1061 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e36cc57518dc8b279eb6afac5c1f8c91/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/981ceec827a2b0583b6fed6a9924a453/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/1490d3504c3236b1f696421d6d26b285/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/531a840eb0c8a2f25979e8df8374eb4e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/91a38f7bf99fa559882975b9a584c24c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/45e55b68410efdffae3eac2a5a3a8ec0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/8c199fc60d8046af02f85f0ffb25d9e2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/e4f99448a4e3407231cefb8197ad6831/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87aab760de25d134620634968a85ac12/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/aee116997eda46738779b38e07430959/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b396be8d4e36cd2590ba40df8dd68465/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/d58c216cbdc852ca72147a100f3ab83f/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/87218f5cc52879720bd85106ff91394b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/66f4bfb202b1ee891c9005ded16b2891/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/be22b1b3aca318fc8fbf48286c7efc04/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/a33dc745e0e50ada0c8bd1f77b24ea6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/5379f7d9fd66226bdf02ef510341e2c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/841440f903a6656f852742297e2b7ccb/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/a3c5a2e53f58de6a28c32ebc5f4d228a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/97dc4d940dfd9fb6a48fe935757d7645/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/f1a6746544aaea5072a5fbc8885a48fb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/6e5545b1bf698afe5536fa590f154512/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/2aa82190251f0e14ee47fede8940d5c9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/6c2b1325cf9a3b0a504f4837673d22fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/cc0f24b0a1f9ee33ed8d70471a5fbc6e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c7d270590aa351641f2a89f61c6e55e4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/d7a5061523f66308c123dd6766aa347c/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/9c3e14861ecfad98355d86c244ec387a/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6e8e6ec313fb8c05cfe4133a31dfbfa7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/1a01a361454715bdd69745e6bfb037a9/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/5afeecdead15a45811e0b0d73a172768/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f26745acbeef359f818d97af8d095e1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/c03752afafeae9e0cf2c948a99aff152/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/a642cda34c47917e3426628e63a0c3fd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/a578fb8be9d66b5ba05b94892c81de80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/379556fd746a0c5fb049c98daac381b8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/12719050c25a622a18d32428414b099b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/5683cd2620980f88973601051a333dd3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/fcabe653e8d4a5c7d53b17594fa96369/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/83a45967b0f4b69d21308ebe2f6b6521/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/74f87a9fc401e0a8944241daef5816eb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/776f1694eb805a98d6b359b459e83843/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/e6682bd868483b31297d82471b76f50a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/b8157361cb3adb9b568a8d8e5c83640f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/40e713e3b73d61db40a2e1a5b9cca589/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/f5c2b1e43dd6f2bedee1c492cfa29108/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/d9f7ba6a98dd9d47d988f6817f449c29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/434023c7eab4bfd8064324392d683f77/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/9ea88899958d39b53b8fbb313d8c9600/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/b582a5d7b288a428bb2b7632436c09ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/86b05ae4a3fb0b3e51a5f8f8bbdedee1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/1f934921c7971655909685299f3ae175/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/58b661025ebea35a3f5d22f09b450a30/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/81146d086a99621288ddcaf2724ab41e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/4bd61cc7753a49e64275be86e0bb41d9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/c886ef7a707c1e1d960409b1e2d45ea9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ae2e7adbd4abae2754b997d5788e16f6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/bbd2853f6d731a5394636a2d2b6a46d5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/0b087e0d2ae8e21561c82e47514c4f81/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/9a9c48fb7f9795e9d11688977de65125/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/26e3cc177bcb16a9a7b84bb8e8af17c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/e0fdd6832bcce12308ca16ded29c7edd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/2542bb0003d854cfd2307eda568a5086/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/83baa1a25750e8ff51a773c9d27e9927/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/8781d748a4df2d9388c71cb0c2cb20d7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/063a29b993240f17b864cb86f3de42db/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/da4ebefaa7cf46130d9d0209c51de3ab/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/f064109dbce16da00e19e58a796a794e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/16c5904af13eac8233f0815945e394bf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/578db8b2aff481e9ad2c91bdd60f9ad3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0d75dacc9debb3a85a29934ad9128b19/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/b07bcb29870dff7445756be8a133e110/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/d027268ee7b2f23ffb135453dc5df40f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/241ed44bd5af92950b98e6500da376b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/3eda264e9a48241dcba6925ed9b34be3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/770ae763c4f7f5cab68d8f003ac6943e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/01c3c3d68d38ad1132bf4cca2b31ebf3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/3bb3a0b59b2c99f05c80f8cbb7b7d942/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/53e2fbdd50206c10b41911667141195c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/f85715dcf11a1b9d2f9b5639dce9af3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/1801022bf1846a74512c46f542c75dc6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/7a0c72b734df5b880ea86a156e2e559c/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e36cc57518dc8b279eb6afac5c1f8c91/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e36cc57518dc8b279eb6afac5c1f8c91/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/981ceec827a2b0583b6fed6a9924a453/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/981ceec827a2b0583b6fed6a9924a453/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/1490d3504c3236b1f696421d6d26b285/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/1490d3504c3236b1f696421d6d26b285/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/531a840eb0c8a2f25979e8df8374eb4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/531a840eb0c8a2f25979e8df8374eb4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/91a38f7bf99fa559882975b9a584c24c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/91a38f7bf99fa559882975b9a584c24c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/45e55b68410efdffae3eac2a5a3a8ec0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/45e55b68410efdffae3eac2a5a3a8ec0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/8c199fc60d8046af02f85f0ffb25d9e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/8c199fc60d8046af02f85f0ffb25d9e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/e4f99448a4e3407231cefb8197ad6831/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/e4f99448a4e3407231cefb8197ad6831/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87aab760de25d134620634968a85ac12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87aab760de25d134620634968a85ac12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/aee116997eda46738779b38e07430959/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/aee116997eda46738779b38e07430959/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b396be8d4e36cd2590ba40df8dd68465/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b396be8d4e36cd2590ba40df8dd68465/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/d58c216cbdc852ca72147a100f3ab83f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/d58c216cbdc852ca72147a100f3ab83f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/87218f5cc52879720bd85106ff91394b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/87218f5cc52879720bd85106ff91394b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/66f4bfb202b1ee891c9005ded16b2891/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/66f4bfb202b1ee891c9005ded16b2891/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/be22b1b3aca318fc8fbf48286c7efc04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/be22b1b3aca318fc8fbf48286c7efc04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/a33dc745e0e50ada0c8bd1f77b24ea6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/a33dc745e0e50ada0c8bd1f77b24ea6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/5379f7d9fd66226bdf02ef510341e2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/5379f7d9fd66226bdf02ef510341e2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/841440f903a6656f852742297e2b7ccb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/841440f903a6656f852742297e2b7ccb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/a3c5a2e53f58de6a28c32ebc5f4d228a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/a3c5a2e53f58de6a28c32ebc5f4d228a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/97dc4d940dfd9fb6a48fe935757d7645/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/97dc4d940dfd9fb6a48fe935757d7645/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/f1a6746544aaea5072a5fbc8885a48fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/f1a6746544aaea5072a5fbc8885a48fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/6e5545b1bf698afe5536fa590f154512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/6e5545b1bf698afe5536fa590f154512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/2aa82190251f0e14ee47fede8940d5c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/2aa82190251f0e14ee47fede8940d5c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/6c2b1325cf9a3b0a504f4837673d22fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/6c2b1325cf9a3b0a504f4837673d22fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/cc0f24b0a1f9ee33ed8d70471a5fbc6e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/cc0f24b0a1f9ee33ed8d70471a5fbc6e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c7d270590aa351641f2a89f61c6e55e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c7d270590aa351641f2a89f61c6e55e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/d7a5061523f66308c123dd6766aa347c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/d7a5061523f66308c123dd6766aa347c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/9c3e14861ecfad98355d86c244ec387a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/9c3e14861ecfad98355d86c244ec387a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6e8e6ec313fb8c05cfe4133a31dfbfa7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6e8e6ec313fb8c05cfe4133a31dfbfa7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/1a01a361454715bdd69745e6bfb037a9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/1a01a361454715bdd69745e6bfb037a9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/5afeecdead15a45811e0b0d73a172768/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/5afeecdead15a45811e0b0d73a172768/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f26745acbeef359f818d97af8d095e1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f26745acbeef359f818d97af8d095e1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/c03752afafeae9e0cf2c948a99aff152/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/c03752afafeae9e0cf2c948a99aff152/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/a642cda34c47917e3426628e63a0c3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/a642cda34c47917e3426628e63a0c3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/a578fb8be9d66b5ba05b94892c81de80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/a578fb8be9d66b5ba05b94892c81de80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/379556fd746a0c5fb049c98daac381b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/379556fd746a0c5fb049c98daac381b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/12719050c25a622a18d32428414b099b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/12719050c25a622a18d32428414b099b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/5683cd2620980f88973601051a333dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/5683cd2620980f88973601051a333dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/fcabe653e8d4a5c7d53b17594fa96369/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/fcabe653e8d4a5c7d53b17594fa96369/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/83a45967b0f4b69d21308ebe2f6b6521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/83a45967b0f4b69d21308ebe2f6b6521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/74f87a9fc401e0a8944241daef5816eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/74f87a9fc401e0a8944241daef5816eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/776f1694eb805a98d6b359b459e83843/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/776f1694eb805a98d6b359b459e83843/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/e6682bd868483b31297d82471b76f50a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/e6682bd868483b31297d82471b76f50a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/b8157361cb3adb9b568a8d8e5c83640f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/b8157361cb3adb9b568a8d8e5c83640f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/40e713e3b73d61db40a2e1a5b9cca589/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/40e713e3b73d61db40a2e1a5b9cca589/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/f5c2b1e43dd6f2bedee1c492cfa29108/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/f5c2b1e43dd6f2bedee1c492cfa29108/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/d9f7ba6a98dd9d47d988f6817f449c29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/d9f7ba6a98dd9d47d988f6817f449c29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/434023c7eab4bfd8064324392d683f77/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/434023c7eab4bfd8064324392d683f77/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/9ea88899958d39b53b8fbb313d8c9600/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/9ea88899958d39b53b8fbb313d8c9600/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/b582a5d7b288a428bb2b7632436c09ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/b582a5d7b288a428bb2b7632436c09ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/86b05ae4a3fb0b3e51a5f8f8bbdedee1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/86b05ae4a3fb0b3e51a5f8f8bbdedee1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/1f934921c7971655909685299f3ae175/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/1f934921c7971655909685299f3ae175/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/58b661025ebea35a3f5d22f09b450a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/58b661025ebea35a3f5d22f09b450a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/81146d086a99621288ddcaf2724ab41e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/81146d086a99621288ddcaf2724ab41e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/4bd61cc7753a49e64275be86e0bb41d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/4bd61cc7753a49e64275be86e0bb41d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/c886ef7a707c1e1d960409b1e2d45ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/c886ef7a707c1e1d960409b1e2d45ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ae2e7adbd4abae2754b997d5788e16f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ae2e7adbd4abae2754b997d5788e16f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/bbd2853f6d731a5394636a2d2b6a46d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/bbd2853f6d731a5394636a2d2b6a46d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/0b087e0d2ae8e21561c82e47514c4f81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/0b087e0d2ae8e21561c82e47514c4f81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/9a9c48fb7f9795e9d11688977de65125/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/9a9c48fb7f9795e9d11688977de65125/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/26e3cc177bcb16a9a7b84bb8e8af17c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/26e3cc177bcb16a9a7b84bb8e8af17c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/e0fdd6832bcce12308ca16ded29c7edd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/e0fdd6832bcce12308ca16ded29c7edd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/2542bb0003d854cfd2307eda568a5086/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/2542bb0003d854cfd2307eda568a5086/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/83baa1a25750e8ff51a773c9d27e9927/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/83baa1a25750e8ff51a773c9d27e9927/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/8781d748a4df2d9388c71cb0c2cb20d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/8781d748a4df2d9388c71cb0c2cb20d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/063a29b993240f17b864cb86f3de42db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/063a29b993240f17b864cb86f3de42db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/da4ebefaa7cf46130d9d0209c51de3ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/da4ebefaa7cf46130d9d0209c51de3ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/f064109dbce16da00e19e58a796a794e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/f064109dbce16da00e19e58a796a794e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/16c5904af13eac8233f0815945e394bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/16c5904af13eac8233f0815945e394bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/578db8b2aff481e9ad2c91bdd60f9ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/578db8b2aff481e9ad2c91bdd60f9ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0d75dacc9debb3a85a29934ad9128b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0d75dacc9debb3a85a29934ad9128b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/b07bcb29870dff7445756be8a133e110/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/b07bcb29870dff7445756be8a133e110/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/d027268ee7b2f23ffb135453dc5df40f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/d027268ee7b2f23ffb135453dc5df40f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/241ed44bd5af92950b98e6500da376b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/241ed44bd5af92950b98e6500da376b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/3eda264e9a48241dcba6925ed9b34be3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/3eda264e9a48241dcba6925ed9b34be3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/770ae763c4f7f5cab68d8f003ac6943e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/770ae763c4f7f5cab68d8f003ac6943e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/01c3c3d68d38ad1132bf4cca2b31ebf3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/01c3c3d68d38ad1132bf4cca2b31ebf3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/3bb3a0b59b2c99f05c80f8cbb7b7d942/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/3bb3a0b59b2c99f05c80f8cbb7b7d942/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/53e2fbdd50206c10b41911667141195c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/53e2fbdd50206c10b41911667141195c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/f85715dcf11a1b9d2f9b5639dce9af3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/f85715dcf11a1b9d2f9b5639dce9af3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/1801022bf1846a74512c46f542c75dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/1801022bf1846a74512c46f542c75dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/7a0c72b734df5b880ea86a156e2e559c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/7a0c72b734df5b880ea86a156e2e559c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/981ceec827a2b0583b6fed6a9924a453/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml
+permission#br.jus.tremt.ondevoto.permission.MAPS_RECEIVE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:11:5-14:18
+	android:protectionLevel
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:12:9-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#br.jus.tremt.ondevoto.permission.MAPS_RECEIVE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:17:22-82
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:18:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:21:5-98
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:21:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:24:22-72
+receiver#br.jus.tremt.ondevoto.TimeAlarm
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:26:5-43
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:26:15-40
+uses-feature#0x00020000
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:28:5-30:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:29:9-41
+	android:required
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:30:9-32
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:32:30-85
+application
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:34:5-67:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e36cc57518dc8b279eb6afac5c1f8c91/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e36cc57518dc8b279eb6afac5c1f8c91/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/531a840eb0c8a2f25979e8df8374eb4e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/531a840eb0c8a2f25979e8df8374eb4e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/2579586de05d9447cfab6fc30af3f495/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/8c199fc60d8046af02f85f0ffb25d9e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/8c199fc60d8046af02f85f0ffb25d9e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/e4f99448a4e3407231cefb8197ad6831/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/e4f99448a4e3407231cefb8197ad6831/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87aab760de25d134620634968a85ac12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87aab760de25d134620634968a85ac12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/aee116997eda46738779b38e07430959/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/aee116997eda46738779b38e07430959/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b396be8d4e36cd2590ba40df8dd68465/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b396be8d4e36cd2590ba40df8dd68465/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/d58c216cbdc852ca72147a100f3ab83f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/d58c216cbdc852ca72147a100f3ab83f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/87218f5cc52879720bd85106ff91394b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/87218f5cc52879720bd85106ff91394b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/66f4bfb202b1ee891c9005ded16b2891/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/66f4bfb202b1ee891c9005ded16b2891/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/be22b1b3aca318fc8fbf48286c7efc04/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/be22b1b3aca318fc8fbf48286c7efc04/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/5379f7d9fd66226bdf02ef510341e2c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/5379f7d9fd66226bdf02ef510341e2c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/a3c5a2e53f58de6a28c32ebc5f4d228a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/a3c5a2e53f58de6a28c32ebc5f4d228a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/97dc4d940dfd9fb6a48fe935757d7645/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/97dc4d940dfd9fb6a48fe935757d7645/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/846c0a1be9568976bfa1b692c37ea668/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/de7e0cfc10ee321454a1e914a636ab66/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/f1a6746544aaea5072a5fbc8885a48fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/f1a6746544aaea5072a5fbc8885a48fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/6e5545b1bf698afe5536fa590f154512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/6e5545b1bf698afe5536fa590f154512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/2aa82190251f0e14ee47fede8940d5c9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/2aa82190251f0e14ee47fede8940d5c9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/6c2b1325cf9a3b0a504f4837673d22fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/6c2b1325cf9a3b0a504f4837673d22fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/cc0f24b0a1f9ee33ed8d70471a5fbc6e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/cc0f24b0a1f9ee33ed8d70471a5fbc6e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c7d270590aa351641f2a89f61c6e55e4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c7d270590aa351641f2a89f61c6e55e4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/a4ff753f5aad077b0c928c8dd42a2b69/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/5afeecdead15a45811e0b0d73a172768/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/5afeecdead15a45811e0b0d73a172768/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f26745acbeef359f818d97af8d095e1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f26745acbeef359f818d97af8d095e1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/c03752afafeae9e0cf2c948a99aff152/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/c03752afafeae9e0cf2c948a99aff152/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/a642cda34c47917e3426628e63a0c3fd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/a642cda34c47917e3426628e63a0c3fd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/a578fb8be9d66b5ba05b94892c81de80/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/a578fb8be9d66b5ba05b94892c81de80/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/379556fd746a0c5fb049c98daac381b8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/379556fd746a0c5fb049c98daac381b8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/12719050c25a622a18d32428414b099b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/12719050c25a622a18d32428414b099b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/5683cd2620980f88973601051a333dd3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/5683cd2620980f88973601051a333dd3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/fcabe653e8d4a5c7d53b17594fa96369/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/fcabe653e8d4a5c7d53b17594fa96369/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/83a45967b0f4b69d21308ebe2f6b6521/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/83a45967b0f4b69d21308ebe2f6b6521/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/74f87a9fc401e0a8944241daef5816eb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/74f87a9fc401e0a8944241daef5816eb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/776f1694eb805a98d6b359b459e83843/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/776f1694eb805a98d6b359b459e83843/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/e6682bd868483b31297d82471b76f50a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/e6682bd868483b31297d82471b76f50a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/b8157361cb3adb9b568a8d8e5c83640f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/b8157361cb3adb9b568a8d8e5c83640f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/40e713e3b73d61db40a2e1a5b9cca589/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/40e713e3b73d61db40a2e1a5b9cca589/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/f5c2b1e43dd6f2bedee1c492cfa29108/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/f5c2b1e43dd6f2bedee1c492cfa29108/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/d9f7ba6a98dd9d47d988f6817f449c29/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/d9f7ba6a98dd9d47d988f6817f449c29/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/434023c7eab4bfd8064324392d683f77/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/434023c7eab4bfd8064324392d683f77/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/9ea88899958d39b53b8fbb313d8c9600/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/9ea88899958d39b53b8fbb313d8c9600/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/b582a5d7b288a428bb2b7632436c09ef/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/b582a5d7b288a428bb2b7632436c09ef/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/86b05ae4a3fb0b3e51a5f8f8bbdedee1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/86b05ae4a3fb0b3e51a5f8f8bbdedee1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/1f934921c7971655909685299f3ae175/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/1f934921c7971655909685299f3ae175/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/58b661025ebea35a3f5d22f09b450a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/58b661025ebea35a3f5d22f09b450a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/81146d086a99621288ddcaf2724ab41e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/81146d086a99621288ddcaf2724ab41e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/4bd61cc7753a49e64275be86e0bb41d9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/4bd61cc7753a49e64275be86e0bb41d9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/c886ef7a707c1e1d960409b1e2d45ea9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/c886ef7a707c1e1d960409b1e2d45ea9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ae2e7adbd4abae2754b997d5788e16f6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ae2e7adbd4abae2754b997d5788e16f6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/bbd2853f6d731a5394636a2d2b6a46d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/bbd2853f6d731a5394636a2d2b6a46d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/0b087e0d2ae8e21561c82e47514c4f81/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/0b087e0d2ae8e21561c82e47514c4f81/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/9a9c48fb7f9795e9d11688977de65125/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/9a9c48fb7f9795e9d11688977de65125/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/26e3cc177bcb16a9a7b84bb8e8af17c1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/26e3cc177bcb16a9a7b84bb8e8af17c1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/e0fdd6832bcce12308ca16ded29c7edd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/e0fdd6832bcce12308ca16ded29c7edd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/2542bb0003d854cfd2307eda568a5086/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/2542bb0003d854cfd2307eda568a5086/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/83baa1a25750e8ff51a773c9d27e9927/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/83baa1a25750e8ff51a773c9d27e9927/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/8781d748a4df2d9388c71cb0c2cb20d7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/8781d748a4df2d9388c71cb0c2cb20d7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/063a29b993240f17b864cb86f3de42db/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/063a29b993240f17b864cb86f3de42db/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/da4ebefaa7cf46130d9d0209c51de3ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/da4ebefaa7cf46130d9d0209c51de3ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/f064109dbce16da00e19e58a796a794e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/f064109dbce16da00e19e58a796a794e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/16c5904af13eac8233f0815945e394bf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/16c5904af13eac8233f0815945e394bf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/578db8b2aff481e9ad2c91bdd60f9ad3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/578db8b2aff481e9ad2c91bdd60f9ad3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0d75dacc9debb3a85a29934ad9128b19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0d75dacc9debb3a85a29934ad9128b19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/b07bcb29870dff7445756be8a133e110/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/b07bcb29870dff7445756be8a133e110/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/d027268ee7b2f23ffb135453dc5df40f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/d027268ee7b2f23ffb135453dc5df40f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/241ed44bd5af92950b98e6500da376b5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/241ed44bd5af92950b98e6500da376b5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/3eda264e9a48241dcba6925ed9b34be3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/3eda264e9a48241dcba6925ed9b34be3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/770ae763c4f7f5cab68d8f003ac6943e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/770ae763c4f7f5cab68d8f003ac6943e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/01c3c3d68d38ad1132bf4cca2b31ebf3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/01c3c3d68d38ad1132bf4cca2b31ebf3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/3bb3a0b59b2c99f05c80f8cbb7b7d942/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/3bb3a0b59b2c99f05c80f8cbb7b7d942/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/53e2fbdd50206c10b41911667141195c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/53e2fbdd50206c10b41911667141195c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/f85715dcf11a1b9d2f9b5639dce9af3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/f85715dcf11a1b9d2f9b5639dce9af3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/1801022bf1846a74512c46f542c75dc6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/1801022bf1846a74512c46f542c75dc6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/7a0c72b734df5b880ea86a156e2e559c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/7a0c72b734df5b880ea86a156e2e559c/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:37:9-41
+	android:icon
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:36:9-36
+	android:allowBackup
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:38:9-40
+uses-library#com.google.android.maps
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:39:9-64
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:39:23-61
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:41:9-43:71
+	android:value
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:43:13-68
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:42:13-62
+meta-data#com.google.android.gms.version
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:44:9-46:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/6625d5fe3de8dc289b17d26b49061beb/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:45:13-58
+activity#br.jus.tremt.ondevoto.main_activity
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:48:9-56:20
+	android:label
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:49:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:54:27-74
+activity#br.jus.tremt.ondevoto.VemPraUrna
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:57:9-60:20
+	android:label
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:59:13-64
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:58:13-39
+service#br.jus.tremt.ondevoto.MyService
+ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:62:9-64:38
+	android:enabled
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:64:13-35
+	android:name
+		ADDED from /Users/jorgebublitz/AndroidProjects/OndeVoto/app/src/main/AndroidManifest.xml:63:13-38
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/0376153b4c2197704362ef1cd7e6cf7d/AndroidManifest.xml:30:13-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/51621ca9b7b36928907a01c1a75507cb/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/c7930d8072ad065a48eed34f3cd30970/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1e3b98a23070f51ecc62332e11004ed7/AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c8b5b3bf95343ddf0936b27354e29fcb/AndroidManifest.xml:11:18-90
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/6c3980dc7bac85989b3fd5fc85707633/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/766e41826c8560ea4ee030c09197eb54/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/04984a708d487a65bb76b2ef626f9444/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6b0b634fc3b6e37ef2e83673982866a2/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/6b523dd7be5f45b71cd0886f8819f192/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.br.jus.tremt.ondevoto
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/03fcc34f7e5a70c2bb25a0dfe5a08dc8/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e947dc7969b8623edb025a630a8fa290/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/8be3f4937fa415d573f36de56e78f2d3/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:29:9-63
+permission#br.jus.tremt.ondevoto.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:32:22-76
+uses-permission#br.jus.tremt.ondevoto.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.jus.tremt.ondevoto
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:42:27-58
+category#br.jus.tremt.ondevoto
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/b2fef15761c1996bce67ec91791717b8/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/a5eafea24311c6e70ed3faf46d7baf25/AndroidManifest.xml:9:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/acd41576f140d2a326a11a1c16e4f31e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a769eb1ae302010ddf83cfecf05563dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/fc407ca9769c71ff7506303e4a5f5a8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/98bd22e1ade8ffb1f14978ca428cd395/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fad2e284413b9841179c655c1385d22f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c5647975482de5332830c4c95d02a5f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fe0c0b332db11a3d1ce70d6f06cad4c1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4b5821d63d8ccef1f6edbe9acd540ca2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8bd0339f991b770d4821ce64fc7f382/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b81e23722c28ede4676de439a661cae3/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/8e6840ed5b62a6008b703468475b2b5e/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jorgebublitz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cb5a16e49d32d266b567362dd2313738/AndroidManifest.xml:26:13-58

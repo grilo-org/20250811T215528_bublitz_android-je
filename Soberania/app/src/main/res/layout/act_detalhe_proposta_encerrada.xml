@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/colorBackground"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".actDetalhePropostaEncerrada">
+
+
+    //header
+
+    <RelativeLayout
+        android:id="@+id/llIdHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:visibility="visible">
+
+        <com.joanzapata.iconify.widget.IconTextView
+            android:id="@+id/btnCompartilhar"
+            android:layout_width="@dimen/actDetalheProposta_widthBtnCompartilhar"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="?android:attr/colorBackground"
+            android:onClick="compartilhar"
+            android:text="@string/act_detalhe_proposta_btnCompartilhar"
+            android:visibility="invisible" />
+
+        <com.joanzapata.iconify.widget.IconTextView
+            android:id="@+id/btnInteiroTeor"
+            android:layout_width="@dimen/actDetalheProposta_widthBtnInteiroTeor"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="?android:attr/colorBackground"
+            android:gravity="end"
+            android:onClick="inteiroTeor"
+            android:text="@string/act_detalhe_proposta_btnInteiroTeor"
+            android:textAlignment="textEnd" />
+
+    </RelativeLayout>
+
+
+    //footer
+
+    <RelativeLayout
+        android:id="@+id/llIdFooter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+    </RelativeLayout>
+
+
+    //Body
+
+    <ScrollView
+        android:id="@+id/svIdContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <TextView
+                android:id="@+id/tvIdTituloProjeto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="Título"
+                android:textSize="@dimen/actDetalheProposta_textSizeTituloProjeto"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdLabelDescricao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdTituloProjeto"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="@color/cinza_claro"
+                android:text="@string/act_detalhe_proposta_labelDescricao"
+                android:textSize="@dimen/actDetalheProposta_textSizeLabel"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdDescricao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelDescricao"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/tvIdLabelTramite"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdDescricao"
+                android:layout_marginTop="14dp"
+                android:background="@color/cinza_claro"
+                android:text="@string/act_detalhe_proposta_encerrada_labelTramite"
+                android:textSize="@dimen/actDetalheProposta_textSizeLabel"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdLabelProtocolo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelTramite"
+                android:layout_marginTop="13dp"
+                android:text="Protocolo:" />
+
+            <TextView
+                android:id="@+id/tvIdProtocolo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/tvIdLabelProtocolo"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelProtocolo"
+                android:layout_toRightOf="@+id/tvIdLabelProtocolo"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tvIdLabelDataProcoloOrgao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelProtocolo"
+                android:text="Data Protocolo no Órgão:" />
+
+            <TextView
+                android:id="@+id/tvIdDataProtocoloOrgao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tvIdPeriodoVotacao"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelDataProcoloOrgao"
+                android:layout_toRightOf="@+id/tvIdLabelDataProcoloOrgao"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tvIdLabelPeriodoVotacao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelDataProcoloOrgao"
+                android:text="Período de Votação:" />
+
+            <TextView
+                android:id="@+id/tvIdPeriodoVotacao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvIdLabelDataProcoloOrgao"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelPeriodoVotacao"
+                android:layout_toRightOf="@+id/tvIdLabelPeriodoVotacao"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tvIdLabelResultado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelPeriodoVotacao"
+                android:text="Resultado:" />
+
+            <TextView
+                android:id="@+id/tvIdResultado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvIdLabelPeriodoVotacao"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelResultado"
+                android:layout_toRightOf="@+id/tvIdLabelResultado"
+                android:text="TextView"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdLabelAcompanhar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelResultado"
+                android:text="Acompanhar Proposta:" />
+
+            <TextView
+                android:id="@+id/tvIdAcompanhar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/tvIdLabelAcompanhar"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelAcompanhar"
+                android:layout_toRightOf="@+id/tvIdLabelAcompanhar"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tvIdLabelResumoVotacao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelAcompanhar"
+                android:layout_marginTop="14dp"
+                android:background="@color/cinza_claro"
+                android:text="Resumo da Votação"
+                android:textSize="@dimen/actDetalheProposta_textSizeLabel"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdLabelAprovado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelResumoVotacao"
+                android:layout_marginTop="13dp"
+                android:text="Aprovado:" />
+
+            <TextView
+                android:id="@+id/tvIdAprovado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/tvIdLabelAprovado"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelProtocolo"
+                android:layout_toRightOf="@+id/tvIdLabelProtocolo"
+                android:text="TextView"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvIdLabelRejeitado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvIdLabelAprovado"
+                android:text="Rejeitado:" />
+
+            <TextView
+                android:id="@+id/tvIdRejeitado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvIdLabelAprovado"
+                android:layout_marginLeft="5dp"
+                android:layout_toEndOf="@+id/tvIdLabelAprovado"
+                android:layout_toRightOf="@+id/tvIdLabelAprovado"
+                android:text="TextView"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

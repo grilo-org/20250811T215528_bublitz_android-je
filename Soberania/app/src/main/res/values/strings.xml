@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Soberano</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="soberania_popular">Soberano</string>
+    <string name="nome_eleitor">NOME DO(A) ELEITOR(A)</string>
+    <string name="data_de_nasc">DATA DE NASCIMENTO</string>
+    <string name="titulo_eleitor">NÚMERO DE INSCRIÇÃO (TÍTULO DE ELEITOR)</string>
+    <string name="nome_da_mae">NOME DA MÃE</string>
+    <string name="nao_consta">Não Consta</string>
+    <string name="nao_consta_maiusculo">NÃO CONSTA</string>
+    <string name="celular">Celular</string>
+    <string name="email">E-mail</string>
+    <string name="title_activity_act_cadastro">Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="msg_erro_act_cadastro_nomeEleitor">Nome do(a) eleitor(a) é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_dataNasc">Data de nascimento é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_dataNascInvalida">Data de nascimento inválida!</string>
+    <string name="msg_erro_act_cadastro_dataNascIncompleta">Data de nascimento incompleta!</string>
+    <string name="msg_erro_act_cadastro_TituloEleitor">Título de Eleitor é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_TituloEleitorInvalido">Título de eleitor inválido!</string>
+    <string name="msg_erro_act_cadastro_nomeMae">Nome da mãe é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_Email">E-mail é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_EmailInvalido">E-mail inválido!</string>
+    <string name="msg_erro_act_cadastro_Celular">Celular é obrigatório!</string>
+    <string name="msg_erro_act_cadastro_Celular_incompleto">Celular incompleto. Digite todos os números!</string>
+    <string name="msg_erro_act_validacao_codigoIncompleto">Código de verificação incompleto!</string>
+    <string name="msg_erro_act_validacao_codigoVazio">É necessário colocar o código de verificação!</string>
+    <string name="act_tela_validacao_msg">
+        Verifique a caixa de entrada do seu e-mail e digite abaixo o código de validação:
+    </string>
+    <string name="act_tela_validacao_titulo">Validação de usuário</string>
+    <string name="act_tela_validacao_bnt_reenviarEmail">Re-Enviar E-mail</string>
+    <string name="act_tela_validacao_bnt_confirmar">Confirmar</string>
+    <string name="msg_aviso_act_cadastro_campos_obrigatorios">Todos os campos são obrigatórios</string>
+    <string name="act_cadastro_asterisco">*</string>
+    <string name="act_dados_eleitor_tituloEleitoral">Título Eleitoral:</string>
+    <string name="act_dados_eleitor_nome">Nome:</string>
+    <string name="act_dados_eleitor_dataNasc">Data Nascimento:</string>
+    <string name="act_dados_eleitor_nomeDaMae">Nome da Mãe:</string>
+    <string name="act_dados_eleitor_btnTrocarEleitor">Trocar Eleitor</string>
+    <string name="act_dados_eleitor_eleitorHabilitado">ELEITOR(A) HABILITADO(A)</string>
+    <string name="act_dados_eleitor_email">E-mail:</string>
+    <string name="act_dados_eleitor_celular">Celular:</string>
+    <string name="act_dados_eleitor_msg_alert">Aviso</string>
+    <string name="act_dados_eleitor_title_alert">Deseja realmente trocar o Eleitor?</string>
+    <string name="act_dados_eleitor_label">Dados do(a) Eleitor(a)</string>
+    <string name="act_detalhe_proposta_btnCompartilhar">Compartilhar {fa-share-alt}</string>
+    <string name="act_detalhe_proposta_btnInteiroTeor">{fa-file-text} Inteiro Teor</string>
+    <string name="act_detalhe_proposta_btnAprovar">Aprovar {fa-thumbs-o-up }</string>
+    <string name="act_detalhe_proposta_btnReprovar">{fa-thumbs-o-down} Reprovar</string>
+    <string name="act_detalhe_proposta_stringBtnAprovar">Aprovar</string>
+    <string name="act_detalhe_proposta_stringBtnReprovar">Reprovar</string>
+    <string name="act_detalhe_proposta_labelDescricao">Descrição</string>
+    <string name="act_detalhe_proposta_labelPeriodoVotacao">Período de votação</string>
+    <string name="act_detalhe_proposta_encerrada_labelTramite">Trâmite</string>
+    <string name="act_detalhe_proposta_labelResumoVotacao">Resumo da votação</string>
+    <string name="act_detalhe_proposta_labelVotacao">Votação</string>
+    <string name="act_detalhe_proposta_labelInicio">Início:</string>
+    <string name="act_detalhe_proposta_labelTermino">Termino:</string>
+    <string name="act_detalhe_proposta_labelAprovar">Aprovar:</string>
+    <string name="act_detalhe_proposta_labelRejeitar">Rejeitar:</string>
+    <string name="act_detalhe_proposta_labelReprovar">Reprovar</string>
+    <string name="title_activity_act_historico_votacao">Meus Votos</string>
+
+    <string name="txt_info1_mt">
+<![CDATA[
+      <h2>Tribunal Regional Eleitoral de Mato Grosso</h2>
+      ]]>
+	</string>
+    <string name="txt_info2_mt">
+<![CDATA[
+      Este aplicativo permite ao Cidadão-Eleitor opinar sobre as propostas de iniciativa popular
+      de projetos de lei. Desta forma, atendendo aos requisitos legais, tais propostas pode ser
+      encaminhadas ao poder legislativo como projetos de lei.
+      ]]>
+	</string>
+    <string name="txt_info3_mt">
+<![CDATA[
+      Desenvolvido por <strong>Jorge <em>FDDMan</em> Bublitz</strong> e <br><strong>
+      Erivelton Gonçalo de Jesus</strong>.
+      ]]>
+	</string>
+</resources>

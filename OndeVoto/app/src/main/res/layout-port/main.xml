@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+    <LinearLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content" >
+
+    	<TextView
+    		android:id="@+id/txtInfo"
+    		android:layout_width="0dip"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1.08"
+    		android:text="@string/lab_titulo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content" >
+
+        <EditText
+        	android:id="@+id/txtTitulo"
+        	android:layout_width="0dp"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="0.74"
+        	android:ems="10"
+        	android:hint="@string/hint_titulo"
+        	android:inputType="number"
+        	android:maxLength="13"
+        	android:imeOptions="actionSearch"
+        	android:width="200dp" >
+
+        	<requestFocus />
+        </EditText>
+
+        <ImageButton
+        	android:id="@+id/btnOK"
+        	android:layout_width="50dp"
+        	android:layout_height="50dp"
+        	android:background="@drawable/ic_find"
+        	android:contentDescription="@string/txt_desc_btn_busca"
+        	android:onClick="pesquisaTitulo"
+        	android:scaleType="center" />
+
+        <ImageButton
+        	android:id="@+id/btnInfo"
+        	android:layout_width="50dp"
+        	android:layout_height="50dp"
+        	android:background="@drawable/ic_question"
+        	android:contentDescription="@string/txt_desc_btn_info"
+        	android:onClick="mostraInfo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content" >
+
+        <TextView
+        	android:id="@+id/textView2"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+	<fragment 
+          android:id="@+id/map"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:name="com.google.android.gms.maps.MapFragment"/>
+
+</LinearLayout>

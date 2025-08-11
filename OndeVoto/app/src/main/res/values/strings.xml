@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Onde Voto? (TRE/MT)</string>
+	<string name="lab_titulo">Digite seu Título de Eleitor:</string>
+	<string name="hint_titulo">(somente números)</string>
+	<string name="txt_no_titulo">Título de Eleitor inválido!</string>
+	<string name="txt_desc_btn_busca">Buscar</string>
+	<string name="txt_desc_btn_info">Informações</string>
+	<string name="txt_error_google_service">É necessário instalar o Google Play Services!</string>
+	<string name="txt_error_google_maps">O Google Maps não localizou o endereço do Local de Votação!</string>
+	<string name="txt_error_maps">Falha ao acessar Google Maps!\nVerifique sua conexão de dados!</string>
+	<string name="txt_error_title">Atenção!!!</string>
+	<string name="btn_exit">Voltar</string>
+	<string name="txt_wait">Aguarde!</string>
+	<string name="txt_search">Procurando...</string>
+	<string name="txt_sede_tre_mt">Sede do Tribunal Regional Eleitoral de Mato Grosso</string>
+	<string name="title_activity_vem_pra_urna">#VemPraUrna</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="mens1">TRE - Mato Grosso</string>
+	<string name="mens2">Vote consciente!</string>
+	<string name="mens3">Hoje você faz a diferença!\nVamos mudar o Brasil!</string>
+	<string name="mens4">#vempraurna</string>
+	<string name="txt_info0_mt">
+<![CDATA[
+      <strong>Título não encontrado!!!</strong><br>
+	  Por favor entre em contato com o TRE/MT através do Disque-Eleitor:<br>   
+	  <strong>148 ou 0800-647-8191</strong><br>    
+      ]]>
+	</string>
+	<string name="txt_info1_mt">
+<![CDATA[
+      <h2>Tribunal Regional Eleitoral de Mato Grosso</h2>
+      Desenvolvido pela <strong>STI</strong>.      
+      ]]>
+	</string>
+	<string name="txt_info2_mt">
+<![CDATA[
+      Caso não tenha encontrado o seu local de votação, entre em contato com o TRE/MT através
+	  do Disque-Eleitor:<br>
+	  <strong>148 ou 0800-647-8191</strong><br>
+      <br>Esta aplicação utiliza serviços do <em>Google Maps</em> de acordo com o 
+      <em><strong>Google APIs Terms of Service</strong></em> e do <em><strong>
+      Google Maps for Android API Terms of Service</strong></em>.
+      ]]>
+	</string>
+	<string name="txt_info3_mt">
+<![CDATA[
+      <h2>Tribunal Regional Eleitoral de Mato Grosso</h2>
+      Desenvolvido por <strong>Jorge FDDMan Bublitz</strong>.   
+      ]]>
+	</string>
+
+</resources>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".actDadosEleitor">
+
+
+    <RelativeLayout
+        android:id="@+id/idRlDadosEleitor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvIdLabelEleitorHabilitado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/act_dados_eleitor_eleitorHabilitado"
+            android:textSize="@dimen/actDadosEleitor_textSizeEleitorHabilitado"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/ivIdFotoEleitor"
+            android:layout_width="@dimen/actDadosEleitor_imgView_width"
+            android:layout_height="@dimen/actDadosEleitor_imgView_height"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvIdLabelEleitorHabilitado"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_foto_texto"
+            android:background="@drawable/ic_app_round" />
+
+        <LinearLayout
+            android:id="@+id/llidTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/ivIdFotoEleitor"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_entre_linhas">
+
+            <TextView
+                android:id="@+id/tvIdLabelTitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_tituloEleitoral"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdTitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llidNome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidTitulo"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_entre_linhas">
+
+            <TextView
+                android:id="@+id/tvIdLabelNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_nome"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdNome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llidDataNasc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidNome"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_entre_linhas">
+
+            <TextView
+                android:id="@+id/tvIdLabelDataNasc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_dataNasc"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdDataNasc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llidNomeDaMae"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidDataNasc"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_entre_linhas">
+
+            <TextView
+                android:id="@+id/tvIdLabelNomeDaMae"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_nomeDaMae"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdNomeDaMae"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llidEmail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidNomeDaMae"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_entre_linhas">
+
+            <TextView
+                android:id="@+id/tvIdLabelEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_email"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llidCelular"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidEmail"
+            android:layout_marginBottom="@dimen/actDadosEleitor_espacamento_texto_btn">
+
+            <TextView
+                android:id="@+id/tvIdLabelCelular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/act_dados_eleitor_celular"
+                android:layout_marginRight="@dimen/actDadosEleitor_espacamento_label_texto" />
+
+            <TextView
+                android:id="@+id/tvIdCelular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnTrocarEleitor"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/actDadosEleitor_height_btn_trocarEleitor"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/llidCelular"
+            android:layout_marginTop="51dp"
+            android:background="@drawable/blue_button"
+            android:onClick="trocarEleitor"
+            android:text="@string/act_dados_eleitor_btnTrocarEleitor"
+            android:textStyle="bold"
+            android:visibility="invisible" />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
