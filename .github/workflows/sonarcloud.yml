@@ -1,0 +1,88 @@
+
+name: Grilo SC Analysis for Android (Gradle)
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch: {}
+
+jobs:
+  scan:
+    name: SonarCloud Analysis
+    runs-on: ubuntu-latest
+    env:
+      ORG: "grilo-org"
+      BASE_KEY: "grilo-org_20250811T215528_bublitz_android-je"
+      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect Project Type and Settings
+        id: project_info
+        run: |
+          PROJECT_DIR="."
+          JAVA_FOR_BUILD="17"
+          GRADLEW_PATH=$(find . -not -path "./.git/*" -maxdepth 3 -type f -name "gradlew" -print -quit)
+          if [ -n "$GRADLEW_PATH" ]; then
+            PROJECT_DIR=$(dirname "$GRADLEW_PATH")
+            WRAPPER_PROPS="$PROJECT_DIR/gradle/wrapper/gradle-wrapper.properties"
+            if [ -f "$WRAPPER_PROPS" ]; then
+              ver=$(grep -o 'gradle-[0-9.]\\+' "$WRAPPER_PROPS" | cut -d'-' -f2 || echo "")
+              if [ -n "$ver" ]; then
+                MAJOR=$(echo "$ver" | cut -d. -f1)
+                if [ "$MAJOR" -lt 5 ]; then JAVA_FOR_BUILD="8";
+                elif [ "$MAJOR" -lt 8 ]; then JAVA_FOR_BUILD="11";
+                else JAVA_FOR_BUILD="17"; fi
+              fi
+            fi
+          fi
+          echo "PROJECT_PATH=$PROJECT_DIR" >> "$GITHUB_ENV"
+          echo "JAVA_FOR_BUILD=$JAVA_FOR_BUILD" >> "$GITHUB_ENV"
+
+      - name: Setup JDK for Wrapper Upgrade
+        uses: actions/setup-java@v3
+        with:
+          java-version: ${{ env.JAVA_FOR_BUILD }}
+          distribution: 'temurin'
+
+      - name: Attempt to Upgrade Gradle Wrapper
+        id: upgrade_wrapper
+        continue-on-error: true
+        working-directory: ${{ env.PROJECT_PATH }}
+        run: |
+          chmod +x ./gradlew
+          ./gradlew wrapper --gradle-version 7.6.4 --distribution-type all
+
+      - name: Prepare Sonar init script
+        run: |
+          cat > "$GITHUB_WORKSPACE/sonar-init.gradle" <<'EOF'
+          initscript {
+              repositories { gradlePluginPortal(); mavenCentral() }
+              dependencies { classpath("org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:4.4.1.3373") }
+          }
+          allprojects { apply plugin: org.sonarqube.gradle.SonarQubePlugin }
+          EOF
+
+      - name: Attempt Full Analysis
+        id: full_analysis
+        if: steps.upgrade_wrapper.outcome == 'success'
+        continue-on-error: true
+        working-directory: ${{ env.PROJECT_PATH }}
+        run: |
+          chmod +x ./gradlew
+          ./gradlew -I "$GITHUB_WORKSPACE/sonar-init.gradle" sonarqube -Dsonar.projectKey=$BASE_KEY -Dsonar.organization=$ORG -Dsonar.host.url=https://sonarcloud.io
+
+      - name: Run Fallback Analysis
+        if: steps.upgrade_wrapper.outcome == 'failure' || steps.full_analysis.outcome == 'failure'
+        uses: SonarSource/sonarqube-scan-action@v5
+        with:
+          projectBaseDir: ${{ env.PROJECT_PATH }}
+          args: >-
+            -Dsonar.projectKey=${{ env.BASE_KEY }}
+            -Dsonar.organization=${{ env.ORG }}
+            -Dsonar.host.url=https://sonarcloud.io
